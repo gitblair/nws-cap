@@ -4,7 +4,9 @@ NWS watches, warnings, advisories, and other similar products in the Common Aler
 
 This code allows you to pull and parse ATOM feeds to display on your website.
 
-This project contains 3 files. The feeds folder is required to house feeds pulled.
+This project contains 3 files. 
+
+You'll want to create a feeds folder to house the feeds.
 
 pull-alerts.php - this pulls down ATOM feeds from alerts.weather.gov for NYC and NJ. Edit as desired but no editing required to demo.
 
