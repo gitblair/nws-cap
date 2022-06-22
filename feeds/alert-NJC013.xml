@@ -18,10 +18,10 @@ xmlns:ha = 'http://www.alerting.net/namespace/index_1.0'
 >
 <!-- TZN = <> -->
 <!-- TZO = <> -->
-<!-- http-date = Wed, 06 Jun 2022 00:52:50 GMT -->
+<!-- http-date = Wed, 06 Jun 2022 12:19:04 GMT -->
 <id>https://alerts.weather.gov/cap/wwaatmget.php?x=NJC013&amp;y=0</id>
 <generator>NWS CAP Server</generator>
-<updated>2022-06-22T00:52:50+00:00</updated>
+<updated>2022-06-22T12:19:04+00:00</updated>
 <author>
 <name>w-nws.webmaster@noaa.gov</name>
 </author>
@@ -30,7 +30,7 @@ xmlns:ha = 'http://www.alerting.net/namespace/index_1.0'
 
   	<entry>
   	<id>https://alerts.weather.gov/cap/wwaatmget.php?x=NJC013&amp;y=0</id>
-  	<updated>2022-06-22T00:52:50+00:00</updated>
+  	<updated>2022-06-22T12:19:04+00:00</updated>
   	<author>
   	<name>w-nws.webmaster@noaa.gov</name>
   	</author>
